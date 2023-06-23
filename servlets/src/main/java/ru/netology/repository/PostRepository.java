@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
-// Stub
+
 @Repository
 public class PostRepository {
   public List<Post> all() {
